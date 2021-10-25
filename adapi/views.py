@@ -9,7 +9,7 @@ import jwt
 # Create your views here.
 
 
-# django default password for database is admin;admin
+
 
 # advisor adding view
 @api_view(['POST'])
